@@ -1,0 +1,12 @@
+name: Covid_19_Dashboard
+title: Covid_19_Dashboard
+username:
+account: elamraoui-sohayb
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1996281
+bundleId: 2924624
+url: https://elamraoui-sohayb.shinyapps.io/Covid_19_Dashboard/
+when: 1585171121.6842
+asMultiple: FALSE
+asStatic: FALSE
