@@ -5,8 +5,8 @@ account: elamraoui-sohayb
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 1996281
-bundleId: 2924624
+bundleId: 2932825
 url: https://elamraoui-sohayb.shinyapps.io/Covid_19_Dashboard/
-when: 1585171121.6842
+when: 1585327674.44875
 asMultiple: FALSE
 asStatic: FALSE
